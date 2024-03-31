@@ -39,3 +39,5 @@ msbuild.wrn
 
 # Resharper
 _ReSharper.Caches/
+
+.containers/
